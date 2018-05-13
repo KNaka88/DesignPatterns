@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/obj/Debug/netcoreapp2.0/DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/obj/Debug/netcoreapp2.0/DependencyInversionPrinciple.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/obj/Debug/netcoreapp2.0/DependencyInversionPrinciple.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/obj/Debug/netcoreapp2.0/DependencyInversionPrinciple.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/bin/Debug/netcoreapp2.0/DependencyInversionPrinciple.deps.json
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/bin/Debug/netcoreapp2.0/DependencyInversionPrinciple.runtimeconfig.json
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/bin/Debug/netcoreapp2.0/DependencyInversionPrinciple.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/bin/Debug/netcoreapp2.0/DependencyInversionPrinciple.dll
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/bin/Debug/netcoreapp2.0/DependencyInversionPrinciple.pdb
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/obj/Debug/netcoreapp2.0/DependencyInversionPrinciple.dll
+/Users/koji/Repositories/Csharp/DesignPatterns/DependencyInversionPrinciple/obj/Debug/netcoreapp2.0/DependencyInversionPrinciple.pdb
