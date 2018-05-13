@@ -4,6 +4,8 @@ namespace LiskovSubstitutionPrinciple
     {
         public virtual int Width { get; set; }
         public virtual int Height { get; set; }
+
+        // This violates the Liskov Substitution Principle
         // public int Width { get; set; }
         // public int Height { get; set; }
         
