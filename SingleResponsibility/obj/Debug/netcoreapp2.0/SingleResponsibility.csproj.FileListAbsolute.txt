@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/bin/Debug/netcoreapp2.0/SingleResponsibility.deps.json
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/bin/Debug/netcoreapp2.0/SingleResponsibility.runtimeconfig.json
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/bin/Debug/netcoreapp2.0/SingleResponsibility.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/bin/Debug/netcoreapp2.0/SingleResponsibility.dll
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/bin/Debug/netcoreapp2.0/SingleResponsibility.pdb
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/obj/Debug/netcoreapp2.0/SingleResponsibility.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/obj/Debug/netcoreapp2.0/SingleResponsibility.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/obj/Debug/netcoreapp2.0/SingleResponsibility.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/obj/Debug/netcoreapp2.0/SingleResponsibility.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/obj/Debug/netcoreapp2.0/SingleResponsibility.dll
+/Users/koji/Repositories/Csharp/DesignPatterns/SingleResponsibility/obj/Debug/netcoreapp2.0/SingleResponsibility.pdb
