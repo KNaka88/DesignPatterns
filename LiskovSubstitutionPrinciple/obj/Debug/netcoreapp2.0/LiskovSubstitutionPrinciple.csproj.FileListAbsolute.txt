@@ -8,3 +8,13 @@
 /Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple/bin/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.pdb
 /Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple/obj/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.dll
 /Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple/obj/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.pdb
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/bin/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.deps.json
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/bin/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.runtimeconfig.json
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/bin/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/bin/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.dll
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/bin/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.pdb
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/obj/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/obj/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/obj/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/obj/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.dll
+/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/obj/Debug/netcoreapp2.0/LiskovSubstitutionPrinciple.pdb

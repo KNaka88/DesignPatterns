@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.csproj",
+      "projectUniqueName": "/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.csproj",
       "projectName": "LiskovSubstitutionPrinciple",
-      "projectPath": "/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.csproj",
+      "projectPath": "/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.csproj",
       "packagesPath": "/Users/koji/.nuget/packages/",
-      "outputPath": "/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple/obj/",
+      "outputPath": "/Users/koji/Repositories/Csharp/DesignPatterns/LiskovSubstitutionPrinciple/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
